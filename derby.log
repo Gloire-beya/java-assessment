@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Oct 24 09:24:53 SAST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017c-b130-1eae-00000231f700 
+on database directory memory:D:\All-my-projects-For-Git\BackEndDev\java-assessment\7d22fb7a-f507-4c9a-bfb9-78a8f56ea313 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/glowe/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=D:\All-my-projects-For-Git\BackEndDev\java-assessment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 24 09:27:39 SAST 2021:
+Shutting down instance a816c00e-017c-b130-1eae-00000231f700 on database directory memory:D:\All-my-projects-For-Git\BackEndDev\java-assessment\7d22fb7a-f507-4c9a-bfb9-78a8f56ea313 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
